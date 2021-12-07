@@ -2,7 +2,7 @@ USE employees_db;
 
 INSERT INTO department (name)
 VALUES
-('Human Resources').
+('Human Resources'),
 ('Finance'),
 ('Security'),
 ('Sales'),

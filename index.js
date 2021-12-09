@@ -66,10 +66,15 @@ const connection = mysql.createConnection({
         if (choices === "Add an employee") {
           addEmployee();
         }
+        
+        if (choices === "Update an employee role") {
+          updateEmployee();
+        }
     
         if (choices === "Add a department") {
           addDepartment();
             }
+
   
         if (choices === "No Action") {
           connection.end()
@@ -320,7 +325,7 @@ addRole = () => {
       name: 'salary',
       message: "What is the salary of this role?",
       validate: addSalary => {
-        if (isNAN(addSalary)) {
+        if (addSalary) {
             return true;
         } else {
             console.log('Please enter a salary');

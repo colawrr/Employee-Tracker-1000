@@ -17,11 +17,11 @@ const connection = mysql.createConnection({
   });
   
   afterConnect = () => {
-    console.log("***********************************")
-    console.log("*                                 *")
-    console.log("*        EMPLOYEE TRACKER         *")
-    console.log("*                                 *")
-    console.log("***********************************")
+    console.log("===================================")
+    console.log("|                                 |")
+    console.log("|  WELCOME TO EMPLOYEE TRACKER!   |")
+    console.log("|                                 |")
+    console.log("===================================")
     options();
   };
 

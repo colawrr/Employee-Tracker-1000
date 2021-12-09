@@ -18,9 +18,9 @@
   
   ## Contribution:
   Read the installation section.
-  ## Testing:
-  N/A
+  ## Video Walk-through:
+  https://user-images.githubusercontent.com/89156347/145470037-084a5c1b-9e3d-414f-a70d-095ffc67a2b8.mp4
+
   ## Additional Info:
   - Github: [Colawrr](https://github.com/Colawrr)
-  - Email:  
-  - Video: 
+  - Video: https://user-images.githubusercontent.com/89156347/145470037-084a5c1b-9e3d-414f-a70d-095ffc67a2b8.mp4

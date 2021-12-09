@@ -11,7 +11,7 @@
   ## Description:
   This is an CLI application to manage a companies employee database.
   ## Installation:
-  Start with cloning the repository to your local github. This appl uses Node.js, Inquirer, mysql2 and console.table. Run node `index.js` to start the app and then follow the prompts. To access MYSQL databse use `mysql -u root -p`.
+  Start with cloning the repository to your local github. This appl uses Node.js, Inquirer, mysql2 and console.table. Run `node index.js` to start the app and then follow the prompts. To access MYSQL databse use `mysql -u root -p`.
   ## Usage:
   Using the command line, this app allows the user to view, add, update and delete employees, roles, and departments.
   ## License:
